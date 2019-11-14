@@ -725,6 +725,10 @@
     padding-left: 0;
 }
 
+.social-actions button i {
+    margin-right: 7px;
+}
+
 .adversiment-container {
     flex-direction: column;
     text-align: center;
