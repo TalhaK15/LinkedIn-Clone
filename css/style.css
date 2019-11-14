@@ -945,4 +945,36 @@
     #res-menu:checked ~ .header-nav{
         display: flex;
     }
+
+    .content {
+        width: 330px;
+        margin: 0 auto;
+    }
+
+    .start-post {
+        margin: ;
+    }
+
+    .start-post-button {
+        width: auto;
+        padding: 15px;
+        border: none;
+    }
+
+    .start-post-bottom {
+        display: none;
+    }
+
+    .start-post-upload-file-button {
+        display: none;
+    }
+
+    .post-image {
+        width: 300px;
+        height: 250px;
+    }
+
+    .post-menu-follow-button {
+        display: none;
+    }
 }
