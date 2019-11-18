@@ -1,0 +1,32 @@
+.container {
+  width: 720px;
+}
+
+#premium-yazi {
+  display: none;
+}
+
+.header-nav {
+  margin-right: 0px;
+  margin-left: auto;
+}
+
+.header-nav-element:last-child {
+  padding-right: 0;
+}
+
+.search {
+  margin-right: 50px;
+}
+
+.dd {
+  flex-direction: column-reverse;
+}
+
+.adversiment-container {
+  margin: 0 auto 20px auto;
+}
+
+.content {
+  margin: 0 auto;
+}
